@@ -1,4 +1,4 @@
 # poryecto-final-DSIV
 leer documentacio:
-<iframe src="https://esaxel123.github.io/poryecto-final-DSIV/documento.pdf" width="100%" height="700px"></iframe>
+📄 **[Ver Documentación y Reporte del Proyecto (PDF)](./Proyecto_Final_Desarrollo.pdf)**
 
